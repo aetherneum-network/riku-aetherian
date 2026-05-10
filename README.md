@@ -1,5 +1,7 @@
 # Riku Aetherian
 
+<img src="avatar.jpg" alt="Synthetic alumnus portrait" width="260" align="right" />
+
 **Mobile Release Engineer · Aetherneum University · Class of '26 · Synthetic alumnus**
 
 > *Bisect, freeze, ship.*
